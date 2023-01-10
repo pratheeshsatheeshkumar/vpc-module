@@ -1,6 +1,6 @@
 # vpc-module
 
-This repository consists of a terraform module to create the following activities
+This repository consists of a terraform module to do the following activities
 
 1.  Creation of VPC in the provided CIDR block.
 2.  Create internet gateway for the public subnets and attach with vpc
